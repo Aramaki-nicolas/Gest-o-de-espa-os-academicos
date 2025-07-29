@@ -1,0 +1,6 @@
+AberlardoTheSUPERCrab;123;true
+Jorel;garfo;false
+professor;ufma;true
+lucas;123;false
+Nicolas;0303;true
+AbelardoTheCrabXD;batata123;true

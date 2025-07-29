@@ -1,0 +1,2 @@
+3;20;ccet;2 ar condicionados;;computação;30
+lab3;20;CCET;gelado;[RESERVAS]Nicolas,03/03/2006 00:00,03/03/2006 00:00,nosso anivesario|;comp;20

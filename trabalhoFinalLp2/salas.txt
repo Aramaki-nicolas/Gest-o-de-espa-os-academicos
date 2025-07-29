@@ -1,0 +1,3 @@
+a304;20;Paulo freire;janelas sem cortina;[RESERVAS]Nicolas,25/03/2025 00:00,25/03/2025 00:30,nasci|;false;true;1
+a205;20;CCET;confortavel;[RESERVAS]Nicolas,03/03/2006 00:00,03/03/2006 00:00,aniversario 2|;true;true;2
+nao;1;inferno;nada;;false;false;1
