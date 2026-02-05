@@ -1,3 +1,4 @@
 #EspacosAcademicos
 
-Gestão de espaços academicos
+Sistema para gestão de espaços academicos feito em java
+
